@@ -19,5 +19,6 @@
     <a href="https://github.com/lautibudini/AyED"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lautibudini&repo=AyED&theme=omni&icon_color=F8D866&show_icons=false&border_color=474554"></a>
     <a href="https://github.com/lautibudini/FOD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lautibudini&repo=FOD&theme=omni&icon_color=F8D866&show_icons=false&border_color=474554"></a>
    <a href="https://github.com/lautibudini/sPython"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lautibudini&repo=sPython&theme=omni&icon_color=F8D866&show_icons=false&border_color=474554"></a>
+  <a href="https://github.com/lautibudini/OO1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lautibudini&repo=OO1&theme=omni&icon_color=F8D866&show_icons=false&border_color=474554"></a>
 <br>
 </div>
