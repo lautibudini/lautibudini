@@ -21,8 +21,7 @@
     <a href="https://github.com/lautibudini/FOD"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lautibudini&repo=FOD&theme=omni&icon_color=F8D866&show_icons=false&border_color=474554"></a>
    <a href="https://github.com/lautibudini/sPython"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lautibudini&repo=sPython&theme=omni&icon_color=F8D866&show_icons=false&border_color=474554"></a>
   <a href="https://github.com/lautibudini/OO1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lautibudini&repo=OO1&theme=omni&icon_color=F8D866&show_icons=false&border_color=474554"></a>
+  <a href="https://github.com/lautibudini/ISO"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lautibudini&repo=ISO&theme=omni&icon_color=F8D866&show_icons=false&border_color=474554"></a>
   <a href="https://github.com/lautibudini/dbd"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lautibudini&repo=dbd&theme=omni&icon_color=F8D866&show_icons=false&border_color=474554"></a>
-<br>
-  <a href="https://github.com/lautibudini/iso"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lautibudini&repo=isotheme=omni&icon_color=F8D866&show_icons=false&border_color=474554"></a>
-<br>
+<br> 
 </div>
