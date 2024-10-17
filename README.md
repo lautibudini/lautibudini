@@ -2,7 +2,7 @@
 <h1 align="center"> Buenass <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBwM3YydWJsNWppejNlYjN3bjB3d2xqZ2Z0MGFoZTQxc3hkbDViNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduZtPOv5OSecubu/giphy.webp" height="148" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHpnNDgwZmlxN2IxNGp0ZGJ5OW1oYXR0NGlpNXNnM2xmMGFqcmhpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GxN4ics7OlvsA/giphy.webp" height="148" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautibudini&layout=compact&theme=radical&border_color=474554" height="150" />
 </div>
