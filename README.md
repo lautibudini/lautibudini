@@ -1,5 +1,6 @@
 
-<h1 align="center"> <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="199px" >Buenass <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="199px"></h1>
+
+<h1 align="center">Buenass <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
 
 
@@ -9,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautibudini&layout=compact&theme=radical&border_color=474554" height="150" />
 </div>
 
-## / Redes /
+## / Redes / 
 <a href="https://instagram.com/llautarx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/753096129993769013" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="30" width="30" /></a>
 <br>
