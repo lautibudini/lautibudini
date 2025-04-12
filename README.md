@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHpnNDgwZmlxN2IxNGp0ZGJ5OW1oYXR0NGlpNXNnM2xmMGFqcmhpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GxN4ics7OlvsA/giphy.webp" height="148" />
+  <img src="https://github.com/user-attachments/assets/1afca250-336e-4e82-9cf1-b4592e2e4633"height="148" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautibudini&layout=compact&theme=radical&border_color=474554" height="150" />
 </div>
