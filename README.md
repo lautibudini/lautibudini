@@ -4,10 +4,8 @@
 
 
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/1afca250-336e-4e82-9cf1-b4592e2e4633"height="148" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautibudini&layout=compact&theme=radical&border_color=474554" height="150" />
+
+ <h1 align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautibudini&layout=compact&theme=radical&border_color=474554" height="150" />
 </div>
 
 ## / Social / 
